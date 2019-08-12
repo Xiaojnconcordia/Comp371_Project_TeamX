@@ -1,4 +1,4 @@
 # Comp371_Project_TeamX
 For COMP 371 Summer 2019 team project  
 
-project name : solar system simulator
+project name : solar system defender
